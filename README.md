@@ -25,5 +25,3 @@ Python, pandas, numpy, scipy, matplotlib, seaborn, statsmodels
 ![Binary Fraction Chart](images/binary_fraction.png)
 ![Simulated Distribution](images/simulated_distributions.png)
 
-## 📚 Context
-Developed as part of Amherst College’s ASTR200 project on ultracool dwarfs.
